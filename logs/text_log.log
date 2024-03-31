@@ -1,0 +1,13 @@
+12:15:41.997 [main] WARN  org.example.Main - old style
+12:15:44.608 [main] INFO  org.example.Main - First log
+12:15:44.608 [main] ERROR org.example.Main - first error
+12:15:44.608 [main] INFO  org.example.Main - old style
+12:15:44.608 [main] WARN  org.example.Main - old style
+18:07:31.626 [main] INFO  org.example.Main - First log
+18:07:31.630 [main] ERROR org.example.Main - first error
+18:07:31.630 [main] INFO  org.example.Main - old style
+18:07:31.630 [main] WARN  org.example.Main - old style
+18:07:35.889 [main] INFO  org.example.Main - First log
+18:07:35.892 [main] ERROR org.example.Main - first error
+18:07:35.893 [main] INFO  org.example.Main - old style
+18:07:35.893 [main] WARN  org.example.Main - old style
