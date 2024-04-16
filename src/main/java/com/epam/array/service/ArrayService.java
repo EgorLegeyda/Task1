@@ -1,18 +1,12 @@
-package org.example.task1.service;
+package com.epam.array.service;
 
-import org.example.task1.entity.CustomArray;
+import com.epam.array.entity.CustomArray;
 
 public interface ArrayService {
     int findMax(CustomArray array);
     int findMin(CustomArray array);
-
     double findAverage(CustomArray array);
-
     int findSum(CustomArray array);
-
     int findNumMinus(CustomArray array);
-
-    int[] replaceElement(CustomArray array, int el, int index);
-
-
+    void replaceElement(CustomArray array, int el, int index);
 }
