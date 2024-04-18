@@ -14,5 +14,4 @@ public interface ArrayRepository {
    CustomArray get(int index);
 
 
-
 }

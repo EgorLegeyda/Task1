@@ -45,7 +45,7 @@ public class CustomArray {
     }
 
 
-    public void revomeObserver() {
+    public void removeObserver() {
         observer = null;
     }
 
